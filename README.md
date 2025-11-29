@@ -8,9 +8,9 @@
 * **🏫 Trường:** VNU-HUS (Đại học Quốc gia Hà Nội - Trường Đại học Khoa học Tự nhiên)  
 * **📝 Tiêu đề:** Ứng dụng LLM trong hệ thống gợi ý phim.
 * **📅 Ngày nộp:** 30/11/2025
-* **📄 Báo cáo PDF:** 📄 [Liên kết tới báo cáo PDF trong kho lưu trữ này]  
-* **🖥️ Slide thuyết trình:** 🖥️ [Liên kết tới slide thuyết trình trong kho lưu trữ này]  
-* **📂 Kho lưu trữ:** 📁 
+* **📄 Báo cáo PDF:** 📄 (https://github.com/anbit192/AI-miniprj/blob/master/report/AI_HUS_LLM_RCM.pdf)
+* **🖥️ Slide thuyết trình:** 🖥️ (https://github.com/anbit192/AI-miniprj/blob/master/slide/AI%20PRJ.pdf)
+* **📂 Kho lưu trữ:** 📁 (https://github.com/anbit192/AI-miniprj)
 
 **👥 Thành viên nhóm:**
 
