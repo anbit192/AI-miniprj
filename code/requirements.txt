@@ -1,0 +1,16 @@
+numpy 
+pandas
+matplotlib
+faiss-cpu
+tqdm
+scikit-learn
+pathlib
+google-genai
+fastapi
+uvicorn 
+nbconvert 
+nbformat 
+jupyter
+python-dotenv
+streamlit
+pymongo
